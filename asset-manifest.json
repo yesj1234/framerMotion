@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/framerMotion/static/css/main.29fd3b54.css",
+    "main.js": "/framerMotion/static/js/main.a2f73207.js",
+    "index.html": "/framerMotion/index.html",
+    "main.a2f73207.js.map": "/framerMotion/static/js/main.a2f73207.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29fd3b54.css",
+    "static/js/main.a2f73207.js"
+  ]
+}
